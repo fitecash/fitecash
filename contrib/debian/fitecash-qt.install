@@ -1,0 +1,6 @@
+usr/local/bin/fitecash-qt usr/bin
+share/pixmaps/fitecash32.xpm usr/share/pixmaps
+share/pixmaps/fitecash16.xpm usr/share/pixmaps
+share/pixmaps/fitecash128.png usr/share/pixmaps
+debian/fitecash-qt.desktop usr/share/applications
+debian/fitecash-qt.protocol usr/share/kde4/services/

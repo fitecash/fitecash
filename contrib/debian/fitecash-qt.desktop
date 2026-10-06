@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Fitecash Core
+Comment=Connect to the Fitecash P2P Network
+Comment[de]=Verbinde mit dem Fitecash peer-to-peer Netzwerk
+Comment[fr]=Fitecash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Fitecash, eşten eşe kriptografik sanal para birimi
+Exec=fitecash-qt %u
+Terminal=false
+Type=Application
+Icon=fitecash128
+MimeType=x-scheme-handler/fitecash;
+Categories=Office;Finance;

@@ -1,0 +1,33 @@
+# /etc/conf.d/fitecashd: config file for /etc/init.d/fitecashd
+
+# Config file location
+#FITECASHD_CONFIGFILE="/etc/fitecash/fitecash.conf"
+
+# What directory to write pidfile to?  (created and owned by $FITECASHD_USER)
+#FITECASHD_PIDDIR="/var/run/fitecashd"
+
+# What filename to give the pidfile
+#FITECASHD_PIDFILE="${FITECASHD_PIDDIR}/fitecashd.pid"
+
+# Where to write fitecashd data (be mindful that the blockchain is large)
+#FITECASHD_DATADIR="/var/lib/fitecashd"
+
+# User and group to own fitecashd process
+#FITECASHD_USER="fitecash"
+#FITECASHD_GROUP="fitecash"
+
+# Path to fitecashd executable
+#FITECASHD_BIN="/usr/bin/fitecashd"
+
+# Nice value to run fitecashd under
+#FITECASHD_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+FITECASHD_OPTS="-disablewallet"
+
+# The timeout in seconds OpenRC will wait for fitecashd to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+FITECASHD_SIGTERM_TIMEOUT=60
