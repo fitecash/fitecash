@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [FITE, ]  
+Fitecash Core [LTP, ]  
 </h1>
 
 دوج‌کوین (Fitecash) یک رمزارز مبتنی بر عموم مردم بوده که از یک
@@ -40,7 +40,7 @@ Fitecash Core [FITE, ]
 منابع اصلی توسعه:
 
 - [پروژه‌های Github](https://github.com/fitecash/fitecash/projects) به منظور پیگیری کارهای برنامه‌ریزی‌شده و دردست‌اقدام برای نسخه‌های آتی استفاده می‌شوند.
-- [مباحث در Github](https://github.com/fitecash/fitecash/discussions) به منظور مورد بحث قرار دادن شاخصه‌های برنامه‌ریزی‌شده و نشده‌ی نرم‌افزار Fitecash Core، پروتکل‌های زیربنایی آن و دارایی FITE مورد استفاده قرار می‌گیرد.
+- [مباحث در Github](https://github.com/fitecash/fitecash/discussions) به منظور مورد بحث قرار دادن شاخصه‌های برنامه‌ریزی‌شده و نشده‌ی نرم‌افزار Fitecash Core، پروتکل‌های زیربنایی آن و دارایی LTP مورد استفاده قرار می‌گیرد.
 
 ### استراتژی نسخه‌گذاری
 

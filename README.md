@@ -18,7 +18,7 @@ Fitecash Core
 
 ## What is Fitecash?
 
-**Fitecash (FITE)** is an innovative, decentralized cryptocurrency designed to function as a primary medium of exchange. Fitecash provides a secure, transparent, and immutable ledger for global peer-to-peer transactions.
+**Fitecash (LTP)** is an innovative, decentralized cryptocurrency designed to function as a primary medium of exchange. Fitecash provides a secure, transparent, and immutable ledger for global peer-to-peer transactions.
 
 The mission of Fitecash is to provide a functional alternative to traditional currencies by offering a scalable payment infrastructure that is not controlled by any central authority. 
 
@@ -65,7 +65,7 @@ Main development resources:
   follow planned and in-progress work for upcoming releases.
 * [GitHub Discussions](https://github.com/fitecash/fitecash/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
-  the Fitecash Core software, the underlying protocols and the FITE asset.
+  the Fitecash Core software, the underlying protocols and the LTP asset.
 
 ### Branches
 There are 4 types of branches in this repository:

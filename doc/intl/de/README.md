@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [FITE, ]  
+Fitecash Core [LTP, ]  
 </h1>
 
 **WICHTIG: Seit August 2024 ist der `master` Branch die primäre Integrationsverzweigung geworden und daher Instabil.
@@ -45,7 +45,7 @@ Die wichtigsten Entwicklungsressourcen:
 * [GitHub Projekte](https://github.com/fitecash/fitecash/projects) 
   Wird verwendet, um den bereits geplanten und derzeit in Entwicklung befindlichen Releases zu folgen.
 * [GitHub Diskussionen](https://github.com/fitecash/fitecash/discussions)
-  Wird verwendet, um geplante und ungeplante Funktionen (Features) zu diskutieren, die sich auf die Entwicklung der Fitecash Core-Software, die zugrunde liegenden Protokolle und das FITE-Asset beziehen.
+  Wird verwendet, um geplante und ungeplante Funktionen (Features) zu diskutieren, die sich auf die Entwicklung der Fitecash Core-Software, die zugrunde liegenden Protokolle und das LTP-Asset beziehen.
 
 ### Versionsstrategie
 

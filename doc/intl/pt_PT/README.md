@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [FITE, ]  
+Fitecash Core [LTP, ]  
 </h1>
 
 Fitecash é uma criptomoeda voltada para a comunidade inspirada num tecnologia financeira descentralizada. O software Fitecash Core permite que qualquer pessoa opere um nó nas redes blockchain Fitecash e usa o método de hash Scrypt para Prova de Trabalho. É adaptado do Bitcoin Core e outras criptomoedas.
@@ -35,7 +35,7 @@ O Fitecash Core é um programa de código aberto gerido pela comunidade. O proce
 Recursos principais de Desenvolvimento:
 
 * [Projetos do Github](https://github.com/fitecash/fitecash/projects) é utilizado para conduzir trabalhos planeados ou que estejam em desenvolvimento para as próximas atualizações.
-* [Discussão do Github](https://github.com/fitecash/fitecash/discussions) é usado para discutir sobre as funcionalidades, planeadas ou não, relacionadas ao desenvolvimento do programa Fitecash Core, os protocolos adjacentes e o criptoativo FITE.
+* [Discussão do Github](https://github.com/fitecash/fitecash/discussions) é usado para discutir sobre as funcionalidades, planeadas ou não, relacionadas ao desenvolvimento do programa Fitecash Core, os protocolos adjacentes e o criptoativo LTP.
 
 ### Estratégia das Versões
 Os numeros de compilação seguem a seguinte semantica:  ```major.minor.patch```
